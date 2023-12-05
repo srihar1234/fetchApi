@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import TopBar from "../Components/TopBar";
-import EditForm from "../Components/editForm";
 import { useParams } from "react-router-dom";
+import EditForm from "../Components/EditingNew"
 
 
 export default function EditCard({contact,setContact}){
@@ -19,3 +19,4 @@ export default function EditCard({contact,setContact}){
         </div>
     )
 }
+
