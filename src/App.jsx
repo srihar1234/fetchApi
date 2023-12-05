@@ -1,6 +1,6 @@
 import './App.css'
 import {Routes,Route} from 'react-router-dom'
-import CardPage from './PAGES/cardPage'
+import CardPage from './PAGES/CardPage'
 import AddCard from './PAGES/AddCard'
 import EditCard from './PAGES/EditCard'
 import { useEffect, useState } from 'react'
