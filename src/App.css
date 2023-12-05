@@ -1,0 +1,21 @@
+.topBar{
+    color:white;
+    padding:10px;
+}
+
+.addForm{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    gap:2rem;
+}
+
+.cards{
+    display:flex;
+    flex-direction: row;
+    gap:2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
